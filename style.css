@@ -1,0 +1,21 @@
+.main {
+    text-align: center;
+    margin: 5%;
+}
+
+body{
+    background-color: rgb(255, 152, 93);
+}
+
+.img {
+    margin: 2rem;
+}
+
+h1 {
+    color: rgb(78, 6, 146);
+    padding: 2rem;
+}
+
+#btn {
+    padding: 0.5rem;
+}
